@@ -1,0 +1,16 @@
+# README
+
+This dataset contains 7T fMRI data from 15 subjects collected between May-October 2021. 
+
+Subjects underwent a total of 7 functional scans: 3 visual stimulus, 2 breath hold, and 2 resting-state runs (except sub-01 who only completed 1 breath hold run)
+
+The visual stimulus run presented subjects with a 12 Hz counterphase flickering radial checkerboard with luminance contrast oscillating at 0.05 Hz (except for sub-01 who was presented with 0.1Hz oscillations).
+
+The breath hold task consisted of 8 repetitions of a breath hold block with of 27 seconds of free breathing, 3 cycles of paced breathing (3 seconds breathe out, 3 seconds breathe in), and a 15 second breath hold. 
+
+For the resting state runs subjects were told to keep their eyes open and to stay awake. 
+
+Physiological data is available from the majority of runs and contains continuous measurements of pulse oximetry and respiration. 
+sub-04 is missing physiological data for the 3rd visual run.
+sub-09 is missing physiological data from the 2nd breath hold run and 2nd resting-state run. 
+
