@@ -1,0 +1,13 @@
+{
+    "SamplingFrequency": 1000.0,
+    "StartTime": 0,
+    "Columns": ["cardiac", "respiratory"],
+    "cardiac": {
+        "Description": "continuous pulse oximetry measurement",
+        "Units": "mV"
+        },
+    "respiratory": {
+        "Description": "continuous measurements by respiration belt",
+        "Units": "mV"
+        }
+}
